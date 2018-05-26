@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8675cee7668345389cbb9e8e5d8244715e1858c4">
+        <dex dex="/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_374b0a8e97c5364fed987c3c23dc9358ed322c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_728104c5c1e648bed0864d1904c6b5028da4632f/classes.dex" />
+    </item>
+
+</items>

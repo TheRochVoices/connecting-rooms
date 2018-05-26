@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

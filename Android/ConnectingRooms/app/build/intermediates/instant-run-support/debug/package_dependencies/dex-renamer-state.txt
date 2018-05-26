@@ -1,0 +1,19 @@
+#Sun May 14 12:53:22 IST 2017
+renamed.5=classes2.dex
+renamed.4=classes3.dex
+renamed.3=classes6.dex
+renamed.2=classes5.dex
+renamed.1=classes4.dex
+renamed.0=classes.dex
+base.5=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a2adbfeae5dafdfd390de3b019ca36548ba6107
+base.4=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f75693dcd302a3b0cb8d8f68329c41b2973f76c
+base.3=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_ecb1398803fc26156903439fa74bdd9036117ffe
+base.2=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2316650fbe9df0b1416308c3678e8c3cdd121ad
+base.1=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e85d042e0163f29d0d8560ee3c851d5571d576b
+base.0=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_fef538d2ddf385b79d25936167a900f76f48ff5c
+file.5=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a2adbfeae5dafdfd390de3b019ca36548ba6107/classes.dex
+file.4=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f75693dcd302a3b0cb8d8f68329c41b2973f76c/classes.dex
+file.3=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_ecb1398803fc26156903439fa74bdd9036117ffe/classes.dex
+file.2=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2316650fbe9df0b1416308c3678e8c3cdd121ad/classes.dex
+file.1=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e85d042e0163f29d0d8560ee3c851d5571d576b/classes.dex
+file.0=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_fef538d2ddf385b79d25936167a900f76f48ff5c/classes.dex

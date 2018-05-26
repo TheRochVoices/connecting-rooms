@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lightoff1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lightoff1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lighton1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lighton1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/power.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/power.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/fanoff.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/fanoff.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lighton.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lighton.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/power1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/power1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/fanon.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/fanon.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/doorlock1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/doorlock1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lampon.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lampon.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lampoff.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lampoff.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lightoff.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lightoff.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/fanon1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/fanon1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/doorunlock.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/doorunlock.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/line_separate.xml",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/line_separate.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/doorlock.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/doorlock.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/fanoff1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/fanoff1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/lampon1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/lampon1.png"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/drawable/doorunlock1.png",
+        "source": "/home/logan/Pictures/AndroidLEDcontrol-master/app/src/main/res/drawable/doorunlock1.png"
+    }
+]

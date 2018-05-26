@@ -1,0 +1,7 @@
+#Mon May 15 15:25:56 IST 2017
+base.0=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_374b0a8e97c5364fed987c3c23dc9358ed322c32
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_728104c5c1e648bed0864d1904c6b5028da4632f/classes.dex
+base.1=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_728104c5c1e648bed0864d1904c6b5028da4632f
+file.0=/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_374b0a8e97c5364fed987c3c23dc9358ed322c32/classes.dex

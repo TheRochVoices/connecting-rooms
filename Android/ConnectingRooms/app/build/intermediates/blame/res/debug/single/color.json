@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/logan/.android/build-cache/5f943af1e384c88a7f422253446753b4cfc8404a/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/logan/.android/build-cache/5f943af1e384c88a7f422253446753b4cfc8404a/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/logan/Pictures/AndroidLEDcontrol-master/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/logan/.android/build-cache/d3582cac6b011e11a3c5e5adb8f591331e0235ab/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    }
+]
